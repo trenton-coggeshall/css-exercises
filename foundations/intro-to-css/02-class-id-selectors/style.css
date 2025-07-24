@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(255, 159, 159);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.epic {
+    font-size: 24px;
+}
+
+#big_blue {
+    color: blue;
+    font-size: 32px;
+}
+
+#gween {
+    background-color: greenyellow;
+    font-weight: bold;
+}
